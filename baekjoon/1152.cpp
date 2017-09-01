@@ -3,7 +3,7 @@
 // Released under a "Simplified BSD" license
 
 
-// for문으로 고쳐보기ㅣㅣㅣㅣㅣ
+// for문 initial position값에 문제 -> 머릿속으로 돌려볼것
 #include <iostream>
 
 using namespace std;
